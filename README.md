@@ -57,6 +57,13 @@
 
 ---
 
+<h3 align="left" style="color: #ffa07a;">Languages I Code In:</h3>
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickymarsh&langs_count=10&layout=compact&theme=radical)
+</p>
+
+---
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickymarsh&show_icons=true&locale=en&layout=compact&theme=radical" alt="mickymarsh" width="45%" />
 </p>
