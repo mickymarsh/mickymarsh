@@ -1,10 +1,12 @@
 <h1 align="center" style="color: #ff6347;">Hi 👋, I'm Madhuni Karunaratne</h1>
 <h3 align="center" style="color: #4682b4;">A Computer Science and Engineering student at the University of Moratuwa</h3>
 
-- 🌱 I’m currently learning **Frontend Development**
-
-- 💬 Ask me about **Java, C++, and Python**
-
+- 🌱 I’m currently learning **AI Agentic Frameworks** to improve intelligent automation.
+  
+- 🔭 Currently building **OCR-based Invoice & Receipt Scanner** and **Aswanna (Smart Agriculture Assistant)**
+  
+- 💬 Ask me about **Data Science, Machine Learning** and **AI frameworks**
+  
 - 📫 How to reach me: **madunikarunarathne@yahoo.com**
 
 ---
@@ -71,6 +73,17 @@
 
   
 </p>
+
+---
+<h3 align="left" style="color: #ffa07a;">Web Development:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+</p>
+---
 
 ---
 
