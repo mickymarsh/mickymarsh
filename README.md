@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="left" style="color: #ffa07a;">Languages and Tools:</h3>
+<h3 align="left" style="color: #ffa07a;"> Programming Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -48,11 +48,6 @@
   </a>
 
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-  
 </p>
 
 ---
@@ -78,6 +73,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 </p>
+
 ---
 
 <h3 align="left" style="color: #ffa07a;">Data Science and AI:</h3>
@@ -89,6 +85,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 </p>
+
 ---
 
 <h3 align="left" style="color: #ffa07a;">Tools and Other:</h3>
@@ -100,6 +97,7 @@
 
   
 </p>
+
 ---
 
 <p>
