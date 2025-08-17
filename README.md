@@ -119,5 +119,24 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="50%" />
 </p>
 
+<table>
+  <tr>
+    <!-- Left: GIF -->
+    <td>
+      <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" alt="Demo" />
+    </td>
+
+    <!-- Right: GitHub stats -->
+    <td>
+      <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="50%" />
+      </p>
+      <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="50%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
