@@ -129,14 +129,12 @@
     <!-- Right: GitHub stats -->
     <td>
       <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="50%" />
-      </p>
-      <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="50%" />
-      </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="50%" />
+</p>
     </td>
   </tr>
 </table>
+
 
 
 
