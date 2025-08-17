@@ -122,16 +122,18 @@
   <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="400" />
-    <br />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="400" />
-  </div>
-  <div>
-    <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="400" />
+      <br />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="400" />
+    </td>
+    <td>
+      <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 
