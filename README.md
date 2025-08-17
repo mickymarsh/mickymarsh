@@ -108,7 +108,6 @@
 </p>
 
 ---
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/5fe06fdd-da2e-49ca-822d-2bfe53aafff4" />
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="50%" />
