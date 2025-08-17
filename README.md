@@ -125,12 +125,12 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="400" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="500" />
       <br />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="400" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="500" />
     </td>
     <td>
-      <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" />
+      <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400" />
     </td>
   </tr>
 </table>
