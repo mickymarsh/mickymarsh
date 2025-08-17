@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Centered GIF with bottom border -->
-  <img src="hi.gif" width="500" style="border-bottom: 1px solid #ccc; padding-bottom: 10px;" />
+  <img src="hi.gif" width="400" style="border-bottom: 5px solid #ccc; padding-bottom: 10px;" />
 </div>
 
 <h3 align="center" style="color: #4682b4;">A Computer Science and Engineering student at the University of Moratuwa</h3>
