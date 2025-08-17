@@ -121,7 +121,6 @@
 
 <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" width="300" />
 </p>
 
 <p float="left">
