@@ -109,19 +109,6 @@
 
 ---
 
-<p float="left">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="50%" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="50%" />
-  </p>
-</p>
-
-<p float="right">
-  <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="300" />
-</p>
-
 <table>
   <tr>
     <td>
@@ -130,6 +117,19 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="500" />
     </td>
     <td>
+      <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400" />
+    </td>
+  </tr>
+</table>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mickymarsh&show_icons=true&locale=en&theme=radical" alt="mickymarsh" width="500" />
+      <br />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickymarsh&theme=radical" alt="mickymarsh" width="500" />
+    </td>
+    <td style="border: none;">
       <img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400" />
     </td>
   </tr>
