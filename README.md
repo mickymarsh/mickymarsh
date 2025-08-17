@@ -1,5 +1,6 @@
-<h1 align="center" style="color: #ff6347;">Hi 👋, I'm Madhuni Karunaratne</h1>
-<img src="hi.gif" width="400" />
+
+<img src="hi.gif" width="500" />
+
 <h3 align="center" style="color: #4682b4;">A Computer Science and Engineering student at the University of Moratuwa</h3>
 
 - 🌱 I’m currently learning **AI Agentic Frameworks** to improve intelligent automation.
