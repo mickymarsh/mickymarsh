@@ -73,9 +73,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <!-- AI Frameworks & Tools -->
-<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain logo" width="40" height="40"/></a>
-<a href="https://github.com/facebookresearch/llama"><img src="URL-to-LLaMA-SVG" alt="LLaMA logo" width="40" height="40"/></a>
-<a href="https://github.com/chroma-core/chroma"><img src="URL-to-Chroma-logo" alt="ChromaDB logo" width="40" height="40"/></a>
+<a href="https://trychroma.com/">
+  <img src="https://seeklogo.com/images/C/chroma-logo-482133.png" alt="ChromaDB logo" width="40" height="40"/>
+</a>
 
 
 </p>
@@ -89,6 +89,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain" alt="LangChain logo" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 
