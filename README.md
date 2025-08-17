@@ -3,7 +3,7 @@
   <img src="hi.gif" width="400" style="border-bottom: 5px solid #ccc; padding-bottom: 10px;" />
 </div>
 
-<h3 align="center" style="color: #4682b4;">A Computer Science and Engineering student at the University of Moratuwa</h3>
+<h3 align="center" style="color: #4682b4;">Hi! I'm Maduni, a Computer Science and Engineering student at the University of Moratuwa</h3>
 
 - 🌱 I’m currently learning **AI Agentic Frameworks** to improve intelligent automation.
   
